@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Streaming/Streaming.iml" filepath="$PROJECT_DIR$/Streaming/Streaming.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hello-world.iml" filepath="$PROJECT_DIR$/.idea/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interpreter/interpreter.iml" filepath="$PROJECT_DIR$/interpreter/interpreter.iml" />
     </modules>
   </component>
 </project>
