@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edb82844-3df4-46a1-aa6a-3800468a9d33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design_data/Storage_and_Retrieval/kv.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error log/Hive errer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/hello-world.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hello-world.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streaming/Streaming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Streaming/Streaming.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interpreter/interpreter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/interpreter/interpreter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/java.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Streaming/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,13 +18,13 @@
     <session id="1440961344">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="4" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -119,18 +112,22 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/design_data/Storage_and_Retrieval/kv.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/error log/Hive errer.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -191,10 +188,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="822" />
+    <option name="height" value="821" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -255,6 +252,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -292,7 +290,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -440,18 +437,19 @@
       <workItem from="1541861140388" duration="950000" />
       <workItem from="1542681953284" duration="18599000" />
       <workItem from="1543411295217" duration="4555000" />
-      <workItem from="1543456898343" duration="328000" />
+      <workItem from="1543456898343" duration="482000" />
+      <workItem from="1543482637542" duration="300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28661000" />
+    <option name="totallyTimeSpent" value="29115000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="821" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14306152" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14520743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -465,12 +463,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33097595" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33002833" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="TypeScript" order="12" weight="0.32911393" />
-      <window_info anchor="right" id="R Graphics" />
-      <window_info anchor="right" id="R Packages" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -479,6 +475,8 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="SciView" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="R Graphics" order="8" />
+      <window_info anchor="right" id="R Packages" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,16 +566,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/design_data/Storage_and_Retrieval/kv.md">
-      <provider selected="true" editor-type-id="text-editor">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/error log/Hive errer.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
         </state>
       </provider>
     </entry>
