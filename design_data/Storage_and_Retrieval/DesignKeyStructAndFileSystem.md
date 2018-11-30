@@ -39,6 +39,8 @@ Question：如何避免最终耗尽磁盘？
         
 第二种索引数：SSTables and LSM-Trees  
 take precedence over：优先于
+SSTables: Sorted String Tables
+
  
     
     
