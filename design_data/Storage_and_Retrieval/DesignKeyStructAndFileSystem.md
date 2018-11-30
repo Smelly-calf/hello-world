@@ -1,3 +1,5 @@
+设计 Key存储结构 和 文件系统
+
 Bitcask is an Erlang application that provides an API for storing and
 retrieving key/value data into a log-structured hash table.
 The design owes a lot to the principles found in log-structured file systems
